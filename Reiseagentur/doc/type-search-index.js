@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"Adresse"},{"p":"<Unnamed>","l":"Bezahlmethode"},{"p":"<Unnamed>","l":"Kunde"},{"p":"<Unnamed>","l":"Reiseagentur"},{"p":"<Unnamed>","l":"Starter"}]
